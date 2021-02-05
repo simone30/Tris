@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "Atmel-ICE (AVR)",
-    "sketch": "tris.ino"
+    "sketch": "tris.ino",
+    "port": "COM4"
 }
