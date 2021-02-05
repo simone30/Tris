@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "programmer": "Atmel-ICE (AVR)"
+    "programmer": "Atmel-ICE (AVR)",
+    "sketch": "tris.ino"
 }
