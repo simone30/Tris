@@ -1,7 +1,8 @@
-#include <SPI.h>
-#include <TouchScreen.h>
-#include <Elegoo_GFX.h>
 #include <Elegoo_TFTLCD.h>
+#include <Elegoo_GFX.h>
+#include <TouchScreen.h>
+
+
 
 //PINS
 #define LCD_CS A3
